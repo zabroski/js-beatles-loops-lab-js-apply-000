@@ -1,3 +1,4 @@
+
  function theBeatlesPlay(musicians,instruments){
   var emptyArray= []
   for (var i=0;i<musicians.length;i++){
@@ -30,3 +31,5 @@ function iLoveTheBeatles(number){
   return emptyArray
 }
 
+=======
+>>>>>>> 6e0ce5f120c84197da55fbea47cded4322e0c7c9
